@@ -606,12 +606,18 @@ form label {
         align-items: center;
         justify-content: center;
     }
+    .map__box {
+    display: flex;
+    align-items: center;
+    overflow:hidden;
+}
 }
 
 .footer {
     width: 100%;
     background: rgb(255, 156, 7);
     padding-bottom: 60px;
+    overflow:hidden;
 }
 
 .footer__container {
