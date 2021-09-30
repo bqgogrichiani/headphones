@@ -580,6 +580,7 @@ form label {
 }
 
 .map__box {
+    width:100%;
     display: flex;
     align-items: center;
     margin: 20px;
@@ -607,6 +608,7 @@ form label {
         justify-content: center;
     }
     .map__box {
+        width: 80%;
     display: flex;
     align-items: center;
     overflow:hidden;
